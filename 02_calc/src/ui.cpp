@@ -60,4 +60,4 @@ namespace calc
         screen.Loop(renderer);
     }
 
-} // namespace calc
+} 
